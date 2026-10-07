@@ -1,1 +1,1 @@
-print ("sera editado pelo commit")
+print ("Editado ja pelo amend")
