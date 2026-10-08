@@ -10,3 +10,5 @@ if senha1 == senha:
 
 else:
     print("acesso negado!")
+
+print("ola andre")
